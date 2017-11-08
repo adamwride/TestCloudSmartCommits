@@ -6,3 +6,4 @@
 # Label + Transition
 # assign via email
 # assign via username
+# assign via other username
