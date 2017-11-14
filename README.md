@@ -10,3 +10,4 @@
 # testing multiple commits
 # what if a jira issue has a different status?
 # testing SC logging
+# testing assigning 
