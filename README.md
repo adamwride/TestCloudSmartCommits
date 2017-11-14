@@ -11,3 +11,4 @@
 # what if a jira issue has a different status?
 # testing SC logging
 # testing assigning 
+# SC-29 #time 1h #assign denis
