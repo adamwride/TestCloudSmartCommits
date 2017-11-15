@@ -16,3 +16,4 @@
 # SC-29 #time 1h 5m #comment this comment should not post
 # SC-29 #time 1h 5m #comment this comment should post - but time should not
 # SC-29 #comment this comment should post - but issue should not transition to IN PRORGRESS 
+# SC-29 #comment this comment should post - but the label should not be added but should transition to in progress #label this-is-a-valid-label #in-progress
