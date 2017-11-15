@@ -15,3 +15,4 @@
 # SC-29 #time 1h 5m #assign denis
 # SC-29 #time 1h 5m #comment this comment should not post
 # SC-29 #time 1h 5m #comment this comment should post - but time should not
+# SC-29 #comment this comment should post - but issue should not transition to IN PRORGRESS 
